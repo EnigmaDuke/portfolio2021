@@ -1,0 +1,2 @@
+My personal Portfolio for 2021.
+In this portfolio I will be displaying some of my favorite projects. Talking about some of the things I've learned and some of the challenges that I've faced in my blog section. I also display a timeline of my achievements in the timeline.
