@@ -1,0 +1,39 @@
+.form_Contact{
+  display: flex;
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  background-color:blue;
+}
+
+label{
+  display: block;
+}
+
+form{
+  background-color: yellow;
+  width: 100%;
+  padding:0 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.form_id input{
+  width:200px;
+  margin-bottom:20px;
+  padding:7px;
+}
+
+.form_id label{
+  margin-bottom:5px;
+}
+
+.form_message textarea{
+  padding:5px;
+  resize: none;
+}
+
+.form_Contact input[type=submit]{
+  padding:10px;
+  width:100px;
+}
