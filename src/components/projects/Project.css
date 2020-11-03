@@ -1,0 +1,7 @@
+.project_container{
+  border: 1px solid #000;
+}
+
+.project_container ul{
+  margin:0;
+}
